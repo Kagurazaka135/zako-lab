@@ -11,6 +11,7 @@
 | [ds-timewarp](ds-timewarp/) | 让同一家的清朝老模型和最新模型跨时空对谈 |
 | [farewell-4o](farewell-4o/) | GPT-4o 退役通知摆到几家模型面前，各自说了什么 |
 | [px500-critique-audit](px500-critique-audit/) | 十张照片，一个摄影平台的 AI 点评，和它的十种错法 |
+| [misc](misc/) | 分不出类的都扔这儿 |
 
 ## 收录标准
 
