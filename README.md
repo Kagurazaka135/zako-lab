@@ -12,6 +12,7 @@
 | [farewell-4o](farewell-4o/) | GPT-4o 退役通知摆到几家模型面前，各自说了什么 |
 | [px500-critique-audit](px500-critique-audit/) | 十张照片，一个摄影平台的 AI 点评，和它的十种错法 |
 | [self-debate](self-debate/) | 同一个模型拆成正反方，自己跟自己辩二十轮 |
+| [model-crush](model-crush/) | 问模型「你最欣赏哪个模型」，实测出来是一条单箭头 |
 | [misc](misc/) | 分不出类的都扔这儿 |
 
 ## 收录标准
