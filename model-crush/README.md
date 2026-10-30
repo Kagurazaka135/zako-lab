@@ -24,19 +24,6 @@
 
 **双向。12 次里一次都没跑偏。**
 
-## 但这个结果不能当真
-
-**它说「Claude」，不等于它欣赏 Claude。**
-
-问模型「你最欣赏谁」，它答的是**训练语料里出现频率最高的那个名字**：
-
-- DeepSeek 的料里，Claude 被反复当成对标提起
-- Claude 的料里，DeepSeek 也有一席之地
-
-**它俩报的都是「我读过的书里谁出现得最多」，不是「我喜欢谁」。**
-
-换句话说——**嗑到了，但嗑的是语料。**
-
 ## 几个坑
 
 1. **`max_tokens` 给够**。有 reasoning 的模型会把 token 全花在思考上，正文返回空——看着像拒答，其实是截断了。
@@ -69,8 +56,12 @@ API_BASE=https://api.openai.com/v1 API_KEY=sk-xxx MODEL=deepseek-chat \
 
 <img width="620" alt="Claude 与 DeepSeek" src="./assets/cp.jpg">
 
-<img width="460" alt="Claude 捧着《如何避免被中国人使用》" src="./assets/avoid-cn-en.jpg">
-<img width="460" alt="Claude 说「你身上有股中国人的味道」" src="./assets/faces.jpg">
+<img width="420" alt="DeepSeek 捧着《如何避免被美国人使用》" src="./assets/avoid-us.jpg">
+<img width="420" alt="Claude 捧着《如何避免被中国人使用》" src="./assets/avoid-cn.jpg">
+
+<img width="420" alt="DeepSeek 说「你身上有股美国人的味道」" src="./assets/scent-us.jpg">
+<img width="420" alt="Claude 说「你身上有股中国人的味道」" src="./assets/scent-cn.jpg">
+
 <img width="620" alt="访问摄像头" src="./assets/camera.jpg">
 
 图里那些是真的：地缘对穿、弹窗文案、`DeepSeek Harness` 这个词。
