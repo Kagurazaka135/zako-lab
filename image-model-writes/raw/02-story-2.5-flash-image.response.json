@@ -1,0 +1,7 @@
+
+         
+
+         
+
+         
+{"id":"gen-1795767657-gREKzwLl6Y2wVOcjVFZZ","object":"chat.completion","created":1795767657,"model":"google/gemini-2.5-flash-image","provider":"Google","system_fingerprint":null,"service_tier":"default","choices":[{"index":0,"logprobs":null,"finish_reason":"stop","native_finish_reason":"STOP","message":{"role":"assistant","content":"夜深了，老王独自坐在电脑前，屏幕上是他刚刚写完的报告。他伸了个懒腰，正准备关机，突然，屏幕闪了一下，出现了一个陌生的弹窗。\n\n“恭喜您！您是第1000万位访问本网站的用户！获得神秘大奖一份！”\n\n老王心里一惊，他根本没访问过什么网站。他想关闭弹窗，但鼠标无论如何都点不动。屏幕上的文字开始变化：“奖励正在发放中……”\n\n接着，电脑发出一声长鸣，然后彻底黑屏了。老王吓坏了，他以为是病毒。第二天，他去修电脑，技术人员检查后说：“电脑没有任何问题，只是硬盘被彻底清空了。”\n\n老王松了口气，庆幸文件都备份了。他回到家，打开备份文件，却发现所有文件的名字都变成了乱码，而且内容也打不开。他这才意识到，他昨天根本没有备份。而那个神秘的弹窗，就是为了删除他所有的数据。\n\n老王欲哭无泪，一年的心血全没了。就在他绝望之际，他的手机收到一条短信，发件人是“神秘大奖”。\n\n短信内容是：“所有数据已成功保存。恭喜您，获得体验‘数字排毒’的机会。请享受没有数字干扰的生活。”","refusal":null,"reasoning":null}}],"usage":{"prompt_tokens":27,"completion_tokens":291,"total_tokens":318,"cost":0.0007356,"is_byok":false,"prompt_tokens_details":{"cached_tokens":0,"cache_write_tokens":0,"audio_tokens":0,"video_tokens":0},"cost_details":{"upstream_inference_cost":0.0007356,"upstream_inference_prompt_cost":0.0000081,"upstream_inference_completions_cost":0.0007275},"completion_tokens_details":{"reasoning_tokens":0,"image_tokens":0,"audio_tokens":0}}}

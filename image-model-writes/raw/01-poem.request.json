@@ -1,0 +1,6 @@
+{
+  "model": "or/google/gemini-2.5-flash-image",
+  "messages": [
+    {"role": "user", "content": "用中文写一首四行的短诗，主题是雨后的便利店。只输出诗，不要画图，不要任何解释。"}
+  ]
+}
