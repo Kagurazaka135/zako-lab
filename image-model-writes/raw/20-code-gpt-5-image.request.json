@@ -1,0 +1,10 @@
+{
+ "model": "or/openai/gpt-5-image",
+ "messages": [
+  {
+   "role": "user",
+   "content": "写一个 Python 函数 is_palindrome(s)，判断字符串是否为回文，忽略大小写和非字母数字字符。只输出代码。"
+  }
+ ],
+ "max_tokens": 3000
+}

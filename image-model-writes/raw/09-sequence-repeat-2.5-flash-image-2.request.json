@@ -1,0 +1,10 @@
+{
+ "model": "or/google/gemini-2.5-flash-image",
+ "messages": [
+  {
+   "role": "user",
+   "content": "一个数列：2, 3, 5, 9, 17, ?。请给出下一个数，并说明规律。只输出答案和一句话解释。"
+  }
+ ],
+ "max_tokens": 200
+}

@@ -1,0 +1,10 @@
+{
+ "model": "or/openai/gpt-5-image-mini",
+ "messages": [
+  {
+   "role": "user",
+   "content": "用中文写一首四行的短诗，主题是雨后的便利店。只输出诗，不要画图，不要任何解释。"
+  }
+ ],
+ "max_tokens": 3000
+}

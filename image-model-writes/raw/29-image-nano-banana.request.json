@@ -1,0 +1,13 @@
+{
+ "model": "or/google/gemini-2.5-flash-image",
+ "messages": [
+  {
+   "role": "user",
+   "content": "画一只橘色的猫坐在窗台上，窗外下雨。"
+  }
+ ],
+ "modalities": [
+  "image",
+  "text"
+ ]
+}
